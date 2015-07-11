@@ -53,6 +53,7 @@ promicro8.upload.disable_flushing=true
 promicro8.upload.use_1200bps_touch=true
 promicro8.upload.wait_for_upload_port=true
 
+promicro8.bootloader.tool=avrdude
 promicro8.bootloader.low_fuses=0xff
 promicro8.bootloader.high_fuses=0xd8
 promicro8.bootloader.extended_fuses=0xfe
